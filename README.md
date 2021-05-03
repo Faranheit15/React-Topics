@@ -1,16 +1,20 @@
-# React-Topics
+# <img src="https://hackernoon.com/images/1*KBGdMaU_emZX4XR1AvkD4A.gif">
+Repository used to brush up my React basics, topic wise. 
 
-Generate random images
-https://picsum.photos/200 
+<h2>Resources</h2>
+<ul>
+<h3>Generate random images</h3>
+<li>https://picsum.photos/200 </li>
 
-Expressions vs Statements
-https://www.youtube.com/watch?v=WVyCrI1cHi8&list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI
+<h3>Expressions vs Statements</h3>
+<li>https://www.youtube.com/watch?v=WVyCrI1cHi8&list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI</li>
 
-Standard HTML Attributes
-https://www.w3schools.com/tags/ref_standardattributes.asp
+<h3>Standard HTML Attributes</h3>
+<li>https://www.w3schools.com/tags/ref_standardattributes.asp</li>
 
-Airbnb Style Guide for React
-https://github.com/airbnb/javascript/tree/master/react
+<h3>Airbnb Style Guide for React</h3>
+<li>https://github.com/airbnb/javascript/tree/master/react</li>
 
-Node require() vs ES6 import/export
-https://stackoverflow.com/questions/31354559/using-node-js-require-vs-es6-import-export
+<h3>Node require() vs ES6 import/export</h3>
+<li>https://stackoverflow.com/questions/31354559/using-node-js-require-vs-es6-import-export</li>
+</ul>
