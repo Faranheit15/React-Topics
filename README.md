@@ -17,4 +17,11 @@ Repository used to brush up my React basics, topic wise.
 
 <h3>Node require() vs ES6 import/export</h3>
 <li>https://stackoverflow.com/questions/31354559/using-node-js-require-vs-es6-import-export</li>
+
+<h3>Emojimeanings.net</h3>
+<li>https://www.emojimeanings.net/list-smileys-people-whatsapp</li>
+
+<h3>The Description List Element</h3>
+<li>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dl</li>
+
 </ul>
