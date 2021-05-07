@@ -24,4 +24,22 @@ Repository used to brush up my React basics, topic wise.
 <h3>The Description List Element</h3>
 <li>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dl</li>
 
+<h3>Filter</h3>
+<li>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter</li>
+
+<h3>Map</h3>
+<li>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map</li>
+
+<h3>Reduce</h3>
+<li>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce</li>
+
+<h3>Find</h3>
+<li>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find</li>
+
+<h3>findIndex</h3>
+<li>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findindex</li>
+
+<h3>Substring</h3>
+<li>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substring</li>
+
 </ul>
