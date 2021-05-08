@@ -42,4 +42,7 @@ Repository used to brush up my React basics, topic wise.
 <h3>Substring</h3>
 <li>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substring</li>
 
+<h3>Arrow Functions</h3>
+<li>https://hacks.mozilla.org/2015/06/es6-in-depth-arrow-functions/</li>
+
 </ul>
