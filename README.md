@@ -45,4 +45,16 @@ Repository used to brush up my React basics, topic wise.
 <h3>Arrow Functions</h3>
 <li>https://hacks.mozilla.org/2015/06/es6-in-depth-arrow-functions/</li>
 
+<h3>Single Responsibility Principle</h3>
+<li>https://en.wikipedia.org/wiki/Single-responsibility_principle</li>
+
+<h3>Ternary Operator Docs</h3>
+<li>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator</li>
+
+<h3>Using the Logical && in React</h3>
+<li>https://reactjs.org/docs/conditional-rendering.html#inline-if-with-logical--operator</li>
+
+<h3>useState() Docs</h3>
+<li>https://reactjs.org/docs/hooks-reference.html#usestate</li>
+
 </ul>
