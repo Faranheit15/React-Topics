@@ -57,4 +57,7 @@ Repository used to brush up my React basics, topic wise.
 <h3>useState() Docs</h3>
 <li>https://reactjs.org/docs/hooks-reference.html#usestate</li>
 
+<h3>Javascript Destructuring</h3>
+<li>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment</li>
+
 </ul>
