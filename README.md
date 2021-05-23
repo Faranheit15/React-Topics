@@ -63,4 +63,7 @@ Repository used to brush up my React basics, topic wise.
 <h3>HTML Event Attributes</h3>
 <li>https://www.w3schools.com/html/html_attributes.asp</li>
 
+<h3>Controlled Components in Forms</h3>
+<li>https://reactjs.org/docs/forms.html#controlled-components</li>
+
 </ul>
