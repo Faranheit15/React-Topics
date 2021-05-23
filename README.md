@@ -60,4 +60,7 @@ Repository used to brush up my React basics, topic wise.
 <h3>Javascript Destructuring</h3>
 <li>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment</li>
 
+<h3>HTML Event Attributes</h3>
+<li>https://www.w3schools.com/html/html_attributes.asp</li>
+
 </ul>
