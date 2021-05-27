@@ -66,4 +66,19 @@ Repository used to brush up my React basics, topic wise.
 <h3>Controlled Components in Forms</h3>
 <li>https://reactjs.org/docs/forms.html#controlled-components</li>
 
+<h3>State and Lifecycle</h3>
+<li>https://reactjs.org/docs/state-and-lifecycle.html</li>
+
+<h3>Intro to Hooks</h3>
+<li>https://reactjs.org/docs/hooks-intro.html</li>
+
+<h3>Should I use Hooks, classes, or a mix of both?</h3>
+<li>https://reactjs.org/docs/hooks-faq.html#should-i-use-hooks-classes-or-a-mix-of-both</li>
+
+<h3>Synthetic Events</h3>
+<li>https://reactjs.org/docs/events.html</li>
+
+<h3></h3>
+<li></li>
+
 </ul>
