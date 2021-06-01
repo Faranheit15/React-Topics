@@ -78,6 +78,12 @@ Repository used to brush up my React basics, topic wise.
 <h3>Synthetic Events</h3>
 <li>https://reactjs.org/docs/events.html</li>
 
+<h3>Spread Syntax</h3>
+<li>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax</li>
+
+<h3>JS ES6</h3>
+<li>https://stackoverflow.com/questions/11508463/javascript-set-object-key-by-variable?noredirect=1&lq=1</li>
+
 <h3></h3>
 <li></li>
 
