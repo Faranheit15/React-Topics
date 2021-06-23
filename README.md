@@ -84,6 +84,12 @@ Repository used to brush up my React basics, topic wise.
 <h3>JS ES6</h3>
 <li>https://stackoverflow.com/questions/11508463/javascript-set-object-key-by-variable?noredirect=1&lq=1</li>
 
+<h3>Line Through CSS Property</h3>
+<li>https://www.w3schools.com/cssref/pr_text_text-decoration.asp</li>
+
+<h3>Generating unique ids with the UUID Package</h3>
+<li>https://www.npmjs.com/package/uuid</li>
+
 <h3></h3>
 <li></li>
 
