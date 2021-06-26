@@ -90,7 +90,22 @@ Repository used to brush up my React basics, topic wise.
 <h3>Generating unique ids with the UUID Package</h3>
 <li>https://www.npmjs.com/package/uuid</li>
 
-<h3></h3>
-<li></li>
+<h3>Material UI Icons</h3>
+<li>https://www.npmjs.com/package/@material-ui/icons</li>
+
+<h3>Material UI Core</h3>
+<li>https://www.npmjs.com/package/@material-ui/core</li>
+
+<h3>Material UI Icons Documentation</h3>
+<li>https://material-ui.com/components/icons/</li>
+
+<h3>Material UI Floating Action Buttons</h3>
+<li>https://material-ui.com/components/buttons/#floating-action-buttons</li>
+
+<h3>Zoom Component Docs</h3>
+<li>https://material-ui.com/api/zoom/</li>
+
+<h3>Transparent Textures</h3>
+<li>https://www.transparenttextures.com/</li>
 
 </ul>
